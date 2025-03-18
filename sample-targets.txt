@@ -1,0 +1,6 @@
+#This is an example of the targets.txt that should be created in root
+#it supports both ip's or websites url's
+
+<random.ip>
+<website.url.1>
+<website.url.2>
